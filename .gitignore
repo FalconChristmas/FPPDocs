@@ -2,4 +2,6 @@
 /node_modules
 Homestead.yaml
 Homestead.json
+access_log
+error_log
 .env
