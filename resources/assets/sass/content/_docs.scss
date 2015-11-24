@@ -72,8 +72,8 @@
 	}
 
 	h3 {
-		font-size: 24px;
-		font-weight: 400;
+		font-size: 22px;
+		font-weight: 700;
 		margin-top: 45px;
 	}
 
@@ -93,7 +93,9 @@
 	blockquote a:hover {
 		color: lighten($color__salmon, 25%);
 	}
-
+	.table-responsive {
+		overflow: auto;
+	}
 	table {
 		border-collapse: collapse;
 		width: 100%;
