@@ -65,8 +65,8 @@
 			margin-left: -25px;
 			position: absolute;
 			font-size: 28px;
-			top: 5px;
-			color: $color__salmon;
+			top: 0;
+			color: $color__light_gray;
 			opacity: .6;
 		}
 	}
@@ -111,7 +111,7 @@
 }
 
 .docs #search {
-	padding: 60px 50px 0px 50px;
+	padding: 50px 50px 0px 50px;
 	margin-left: 300px;
 }
 
