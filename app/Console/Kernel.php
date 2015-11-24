@@ -14,6 +14,8 @@ class Kernel extends ConsoleKernel
      */
     protected $commands = [
         \FPP\Console\Commands\Inspire::class,
+        \FPP\Console\Commands\IndexDocs::class,
+
     ];
 
     /**
