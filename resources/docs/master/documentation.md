@@ -1,7 +1,7 @@
 ### Falcon Player
 
 - Prologue
-    - [Current Version](/docs/{{Version}}/current-versions)
+    - [Current Version](/docs/{{version}}/current-versions)
     - [Release Notes](/docs/{{version}}/releases)
     - [Upgrade Guide](/docs/{{version}}/upgrade)
     - [Contribution Guide](/docs/{{version}}/contributions)
